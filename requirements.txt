@@ -1,3 +1,4 @@
 python-telegram-bot>=20.0
 python-nmap
-apscheduler>=4.0.0
+apscheduler>=3.10.4
+
